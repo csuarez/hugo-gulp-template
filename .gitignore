@@ -1,0 +1,11 @@
+# NPM
+node_modules
+
+# grunt-rev
+rev-manifest.json
+
+# Configuration
+config.toml
+
+# Compiled Hugo
+public
